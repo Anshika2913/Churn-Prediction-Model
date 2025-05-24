@@ -30,7 +30,7 @@ Customer churn is a major challenge for banks. This project uses an Artificial N
 
 ---
 
-## Technologies Used
+## 🧩 Technologies Used
 - Python
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn
