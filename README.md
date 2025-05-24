@@ -64,11 +64,15 @@ Customer churn is a major challenge for banks. This project uses an Artificial N
    git clone https://github.com/yourusername/bank-churn-ann.git
    cd bank-churn-ann
 2. **Create virtual environment**
+   ```bash
       python -m venv venv
       venv\Scripts\activate
-3. **Install dependencies**
+4. **Install dependencies**
+   ```bash
       pip install -r requirements.txt
-4. **Run the model**
+6. **Run the model**
+   ```bash
       python churn_ann_model.py
-5. **Run the Streamlit app**
+8. **Run the Streamlit app**
+   ```bash
       streamlit run app.py
